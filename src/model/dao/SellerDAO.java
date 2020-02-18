@@ -12,7 +12,7 @@ void insert(Seller obj);
 	
 	void delete(Seller codigo);
 	
-	Seller findById(Seller codigo);
+	Seller findById(Integer codigo);
 	
 	List<Seller> findAll();
 
